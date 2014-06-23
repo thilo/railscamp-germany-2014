@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RailsCamp Germany 2014</title>
+    <description>Updates and announcements for RailsCamp Germany 2014</description>
+    <link>http://2014.railscamp.de/blog</link>
+    <atom:link href="http://2014.railscamp.de/blog/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RailsCamp Germany is back, and you're all invited!</title>
+      <description>&lt;p&gt;&lt;strong&gt;RailsCamp Germany 2014 is coming!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Join up to 200 fellow Rails developers in Cologne for the 6th edition of RailsCamp Germany!&lt;/p&gt;
+
+&lt;p&gt;The crowd-organised unconference will take place Sept. 26/27/28. Meet old and new friends, learn, teach, exchange ideas and experiences, and have tons of fun. The Rails Girls will also be present at the event, so it will be a great fit for people that are new to Rails, as well.&lt;/p&gt;
+
+&lt;p&gt;The venue will be Abenteuerhallen Kalk. It’s the same awesome indoor climbing/skating place like last year, providing space for lots of techie (talks, workshops) and non-techie (climbing, skating, soccer, basketball) activities. You can even set up tent in the the neighboring skate hall, so you don’t have to leave during the whole weekend.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/venue_main-hall_1.png&quot; alt=&quot;Venue, Main Hall&quot; /&gt; &lt;img src=&quot;/img/venue_main-hall_2.png&quot; alt=&quot;Venue, Main Hall&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;RailsCamp Germany is all about networking and exchanging knowledge and ideas in the most laid-back atmosphere possible – no stress, no hardcore schedule, and space for whatever you feel like doing. And most importantly: &lt;em&gt;you&lt;/em&gt; will decide what exactly the camp will be in the end! In fact, we have only two rules:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Everybody contributes, no matter what or how small. &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+
+&lt;li&gt;There are no other rules.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This event is created by you! So, start thinking about sessions you like to host or you would like to participate. We are working on providing a tool for collecting your ideas and proposals. It’s coming soon - we promise!&lt;/p&gt;
+
+&lt;p&gt;It’ll take some hands and planning to stay on top of our customary anarchy. And as a 100% non-profit community event we’ll need as many of you as possible to help get everything in place for this Unconference Extraordinaire.&lt;/p&gt;
+
+&lt;p&gt;As a decentralized organization team, we’ve set up some tools to help us collaborate remotely. If you want to get involved before the event, check out what we already have, find something you’d like to help with or add something new, and join the conversation:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/railscamp/railscamp-germany-2014/issues?state=open&quot;&gt;GitHub Issues on the event repo&lt;/a&gt; are our main organization channel. We started adding some topics and tasks a week ago, but people are adding new things every day.&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;irc://irc.freenode.net:7000/railcamp_de&quot;&gt;#railscamp_de on Freenode&lt;/a&gt; is our offical IRC channel. Just drop by anytime.&lt;/li&gt;
+
+&lt;li&gt;and - of course - follow us on &lt;a href=&quot;https://twitter.com/railscamp_de&quot;&gt;Twitter&lt;/a&gt;. Hashtag: #rcg14&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We’re also doing regular Google Hangouts every Tuesday at 6pm. &lt;!-- The URL is always shared on both IRC and Twitter. --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So, long story short: fellow RailsCampers, you’re all invited to join us for the 6th incarnation of RailsCamp Germany in September in Cologne!&lt;/strong&gt; We’re open to everyone, from beginners to masters of their craft. It’ll be an epic weekend of learning new things, meeting fellow enthusiasts, and having tons of fun. Everything is allowed&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and you’re in charge of the program. We’re incredibly excited, and we hope to see you there!&lt;/p&gt;
+&lt;!-- TEXT FROM 2013:
+For session planning before and during the event, we will have a nice little
+Rails app, developed by the fine folks of [eurucamp](http://2013.eurucamp.org/).
+You'll be able to add whatever you want to start – talks, discussions,
+activities, workshops, etc. – and people can then register their interest, so we
+can decide on the room/location details on site, depending on how much space is
+required.
+
+In light of the increased costs, and that we cannot afford too much uncertainty
+on no-shows, this year we will have entry fees like last year. We'll
+have three types of tickets – students, normal, and supporters – with the normal one
+costing around 25 EUR. That's still a killer deal for a 2.5-day developer
+paradise, and that's mostly due to our awesome...
+
+Sponsors! We haven't compiled the various packages yet, but if you're running or
+working at a company which could chip in a few bucks (or many), please get in
+touch! We'll have sponsoring opportunities starting at a few hundred Euro, so
+there'll be something for every budget. And if you're on the lookout for new
+developers to hire, we have some nice extras planned for you.
+
+
+
+
+
+If you're interested, then mark your calendar, follow us &lt;a
+href=&quot;https://twitter.com/railscamp_de&quot;&gt;on Twitter&lt;/a&gt;, and track the event &lt;a
+href=&quot;http://lanyrd.com/2013/rcg13/&quot;&gt;on Lanyrd&lt;/a&gt;.
+
+Oh, and one more thing: In order to keep the books clean and pool more resources within
+the German Ruby community, we're glad to announce that the [Ruby Berlin
+e.V.](http://rubyberlin.org) will be the official host of this year's camp!
+They're an amazing bunch of committed volunteers[^foot-3], and we're very happy
+to have them on board. --&gt;&lt;!-- [^foot-3]: Seriously, [check this out](https://twitter.com/railscamp_de/status/339386679498530817) for example. --&gt;&lt;div class=&quot;footnotes&quot;&gt;&lt;hr /&gt;&lt;ol&gt;&lt;li id=&quot;fn:1&quot;&gt;
+&lt;p&gt;This can be a talk, a discussion session, asking questions, helping out with one of the many tasks on site (e.g. manning the reception stand for an hour), helping organize something upfront – whatever you like. &lt;a href=&quot;#fnref:1&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;li id=&quot;fn:2&quot;&gt;
+&lt;p&gt;Except being racist, sexist, or any other kind of mean, of course. Take a look at our &lt;a href=&quot;http://2014.railscamp.de/coc/&quot;&gt;Code of Conduct&lt;/a&gt;. –&amp;gt; &lt;a href=&quot;#fnref:2&quot; rev=&quot;footnote&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</description>
+      <pubDate>Fri, 30 May 2014 17:00:00 +0200</pubDate>
+      <link>http://2014.railscamp.de/blog/news/2014/05/30/join-us-for-another-epic-railscamp-germany.html</link>
+      <guid isPermaLink="true">http://2014.railscamp.de/blog/news/2014/05/30/join-us-for-another-epic-railscamp-germany.html</guid>
+    </item>
+    
+  </channel>
+</rss>
